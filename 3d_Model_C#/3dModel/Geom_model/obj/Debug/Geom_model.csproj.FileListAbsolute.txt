@@ -1,0 +1,138 @@
+H:\Курсовой_Nesso4ka\Geom_model\Geom_model\bin\Debug\Geom_model.exe.config
+H:\Курсовой_Nesso4ka\Geom_model\Geom_model\obj\Debug\Geom_model.exe
+H:\Курсовой_Nesso4ka\Geom_model\Geom_model\obj\Debug\Geom_model.pdb
+I:\Курсовой_Nesso4ka\Geom_model\Geom_model\bin\Debug\Geom_model.exe.config
+I:\Курсовой_Nesso4ka\Geom_model\Geom_model\obj\Debug\Geom_model.exe
+I:\Курсовой_Nesso4ka\Geom_model\Geom_model\obj\Debug\Geom_model.pdb
+I:\ГМ\Курсовой_Nesso4ka\Geom_model\Geom_model\bin\Debug\Geom_model.exe.config
+I:\ГМ\Курсовой_Nesso4ka\Geom_model\Geom_model\obj\Debug\Geom_model.exe
+I:\ГМ\Курсовой_Nesso4ka\Geom_model\Geom_model\obj\Debug\Geom_model.pdb
+I:\ГМ\Курсовой_Nesso4ka\Geom_model\Geom_model\bin\Debug\Geom_model.exe
+I:\ГМ\Курсовой_Nesso4ka\Geom_model\Geom_model\bin\Debug\Geom_model.pdb
+I:\ГМ\Курсовой_Nesso4ka\Geom_model\Geom_model\obj\Debug\ResolveAssemblyReference.cache
+I:\ГМ\Курсовой_Nesso4ka\Geom_model\Geom_model\obj\Debug\Geom_model.fMain.resources
+I:\ГМ\Курсовой_Nesso4ka\Geom_model\Geom_model\obj\Debug\Geom_model.Properties.Resources.resources
+I:\ГМ\Курсовой_Nesso4ka\Geom_model\Geom_model\obj\Debug\GenerateResource.read.1.tlog
+I:\ГМ\Курсовой_Nesso4ka\Geom_model\Geom_model\obj\Debug\GenerateResource.write.1.tlog
+D:\Учёба\9 cem\Курсовой_Nesso4ka\Geom_model\Geom_model\bin\Debug\Geom_model.exe.config
+D:\Учёба\9 cem\Курсовой_Nesso4ka\Geom_model\Geom_model\obj\Debug\Geom_model.exe
+D:\Учёба\9 cem\Курсовой_Nesso4ka\Geom_model\Geom_model\obj\Debug\Geom_model.pdb
+D:\Учёба\9 cem\Курсовой_Nesso4ka\Geom_model\Geom_model\bin\Debug\Geom_model.exe
+D:\Учёба\9 cem\Курсовой_Nesso4ka\Geom_model\Geom_model\bin\Debug\Geom_model.pdb
+D:\Учёба\9 cem\Курсовой_Nesso4ka\Geom_model\Geom_model\obj\Debug\ResolveAssemblyReference.cache
+D:\Учёба\9 cem\Курсовой_Nesso4ka\Geom_model\Geom_model\obj\Debug\Geom_model.fMain.resources
+D:\Учёба\9 cem\Курсовой_Nesso4ka\Geom_model\Geom_model\obj\Debug\Geom_model.Properties.Resources.resources
+D:\Учёба\9 cem\Курсовой_Nesso4ka\Geom_model\Geom_model\obj\Debug\GenerateResource.read.1.tlog
+D:\Учёба\9 cem\Курсовой_Nesso4ka\Geom_model\Geom_model\obj\Debug\GenerateResource.write.1.tlog
+G:\Geom_model\Geom_model\bin\Debug\Geom_model.exe.config
+G:\Geom_model\Geom_model\obj\Debug\Geom_model.exe
+G:\Geom_model\Geom_model\obj\Debug\Geom_model.pdb
+I:\Geom_model\Geom_model\bin\Debug\Geom_model.exe.config
+I:\Geom_model\Geom_model\obj\Debug\Geom_model.exe
+I:\Geom_model\Geom_model\obj\Debug\Geom_model.pdb
+I:\Geom_model\Geom_model\bin\Debug\Geom_model.exe
+I:\Geom_model\Geom_model\bin\Debug\Geom_model.pdb
+I:\Geom_model\Geom_model\obj\Debug\ResolveAssemblyReference.cache
+I:\Geom_model\Geom_model\obj\Debug\Geom_model.fMain.resources
+I:\Geom_model\Geom_model\obj\Debug\Geom_model.Properties.Resources.resources
+I:\Geom_model\Geom_model\obj\Debug\GenerateResource.read.1.tlog
+I:\Geom_model\Geom_model\obj\Debug\GenerateResource.write.1.tlog
+D:\Учёба\Geom_model\Geom_model\bin\Debug\Geom_model.exe.config
+D:\Учёба\Geom_model\Geom_model\obj\Debug\Geom_model.exe
+D:\Учёба\Geom_model\Geom_model\obj\Debug\Geom_model.pdb
+D:\Учёба\Geom_model\Geom_model\bin\Debug\Geom_model.exe
+D:\Учёба\Geom_model\Geom_model\bin\Debug\Geom_model.pdb
+D:\Учёба\Geom_model\Geom_model\obj\Debug\ResolveAssemblyReference.cache
+D:\Учёба\Geom_model\Geom_model\obj\Debug\Geom_model.fMain.resources
+D:\Учёба\Geom_model\Geom_model\obj\Debug\Geom_model.Properties.Resources.resources
+D:\Учёба\Geom_model\Geom_model\obj\Debug\GenerateResource.read.1.tlog
+D:\Учёба\Geom_model\Geom_model\obj\Debug\GenerateResource.write.1.tlog
+D:\Князев\Geom_model\bin\Debug\Geom_model.exe.config
+D:\Князев\Geom_model\obj\Debug\Geom_model.exe
+D:\Князев\Geom_model\obj\Debug\Geom_model.pdb
+D:\Князев\Geom_model\bin\Debug\Geom_model.exe
+D:\Князев\Geom_model\bin\Debug\Geom_model.pdb
+D:\Князев\Geom_model\obj\Debug\ResolveAssemblyReference.cache
+D:\Князев\Geom_model\obj\Debug\Geom_model.fMain.resources
+D:\Князев\Geom_model\obj\Debug\Geom_model.Properties.Resources.resources
+D:\Князев\Geom_model\obj\Debug\GenerateResource.read.1.tlog
+D:\Князев\Geom_model\obj\Debug\GenerateResource.write.1.tlog
+I:\Суворов\Geom_model\bin\Debug\Geom_model.exe.config
+I:\Суворов\Geom_model\obj\Debug\Geom_model.exe
+I:\Суворов\Geom_model\obj\Debug\Geom_model.pdb
+I:\Суворов\Geom_model\bin\Debug\Geom_model.exe
+I:\Суворов\Geom_model\bin\Debug\Geom_model.pdb
+I:\Суворов\Geom_model\obj\Debug\ResolveAssemblyReference.cache
+I:\Суворов\Geom_model\obj\Debug\Geom_model.fMain.resources
+I:\Суворов\Geom_model\obj\Debug\Geom_model.Properties.Resources.resources
+I:\Суворов\Geom_model\obj\Debug\GenerateResource.read.1.tlog
+I:\Суворов\Geom_model\obj\Debug\GenerateResource.write.1.tlog
+D:\--УЧЁБА--\сиденко\107517-СуворовАА\Geom_model\bin\Debug\Geom_model.exe.config
+D:\--УЧЁБА--\сиденко\107517-СуворовАА\Geom_model\obj\Debug\Geom_model.exe
+D:\--УЧЁБА--\сиденко\107517-СуворовАА\Geom_model\obj\Debug\Geom_model.pdb
+D:\--УЧЁБА--\сиденко\107517-СуворовАА\Geom_model\bin\Debug\Geom_model.pdb
+D:\--УЧЁБА--\сиденко\107517-СуворовАА\Geom_model\obj\Debug\ResolveAssemblyReference.cache
+D:\--УЧЁБА--\сиденко\107517-СуворовАА\Geom_model\obj\Debug\Geom_model.fMain.resources
+D:\--УЧЁБА--\сиденко\107517-СуворовАА\Geom_model\obj\Debug\Geom_model.Properties.Resources.resources
+D:\--УЧЁБА--\сиденко\107517-СуворовАА\Geom_model\obj\Debug\GenerateResource.read.1.tlog
+D:\--УЧЁБА--\сиденко\107517-СуворовАА\Geom_model\obj\Debug\GenerateResource.write.1.tlog
+D:\Универ\3 курс\sidenko\107517-СуворовАА\Geom_model\bin\Debug\Geom_model.exe.config
+D:\Универ\3 курс\sidenko\107517-СуворовАА\Geom_model\obj\Debug\Geom_model.exe
+D:\Универ\3 курс\sidenko\107517-СуворовАА\Geom_model\obj\Debug\Geom_model.pdb
+E:\Bntu\3 курс 1 сем\Курсовой 3D\sidenko\107517-СуворовАА\Geom_model\bin\Debug\Geom_model.exe.config
+E:\Bntu\3 курс 1 сем\Курсовой 3D\sidenko\107517-СуворовАА\Geom_model\obj\Debug\Geom_model.exe
+E:\Bntu\3 курс 1 сем\Курсовой 3D\sidenko\107517-СуворовАА\Geom_model\obj\Debug\Geom_model.pdb
+E:\Bntu\3 курс 1 сем\Курсовой 3D\sidenko\107517-СуворовАА\Geom_model\bin\Debug\Geom_model.exe
+E:\Bntu\3 курс 1 сем\Курсовой 3D\sidenko\107517-СуворовАА\Geom_model\bin\Debug\Geom_model.pdb
+E:\Bntu\3 курс 1 сем\Курсовой 3D\sidenko\107517-СуворовАА\Geom_model\obj\Debug\Geom_model.csprojResolveAssemblyReference.cache
+E:\Bntu\3 курс 1 сем\Курсовой 3D\sidenko\107517-СуворовАА\Geom_model\obj\Debug\Geom_model.fMain.resources
+E:\Bntu\3 курс 1 сем\Курсовой 3D\sidenko\107517-СуворовАА\Geom_model\obj\Debug\Geom_model.Properties.Resources.resources
+E:\Bntu\3 курс 1 сем\Курсовой 3D\sidenko\107517-СуворовАА\Geom_model\obj\Debug\Geom_model.csproj.GenerateResource.Cache
+H:\Носкова\107517-СуворовАА\Geom_model\bin\Debug\Geom_model.exe.config
+H:\Носкова\107517-СуворовАА\Geom_model\obj\Debug\Geom_model.exe
+H:\Носкова\107517-СуворовАА\Geom_model\obj\Debug\Geom_model.pdb
+H:\Носкова\107517-СуворовАА\Geom_model\bin\Debug\Geom_model.exe
+H:\Носкова\107517-СуворовАА\Geom_model\bin\Debug\Geom_model.pdb
+H:\Носкова\107517-СуворовАА\Geom_model\obj\Debug\Geom_model.csprojResolveAssemblyReference.cache
+H:\Носкова\107517-СуворовАА\Geom_model\obj\Debug\Geom_model.fMain.resources
+H:\Носкова\107517-СуворовАА\Geom_model\obj\Debug\Geom_model.Properties.Resources.resources
+H:\Носкова\107517-СуворовАА\Geom_model\obj\Debug\Geom_model.csproj.GenerateResource.Cache
+C:\Users\Chrv\Desktop\курсачи\Носкова\107517-СуворовАА\Geom_model\bin\Debug\Geom_model.exe.config
+C:\Users\Chrv\Desktop\курсачи\Носкова\107517-СуворовАА\Geom_model\bin\Debug\Geom_model.exe
+C:\Users\Chrv\Desktop\курсачи\Носкова\107517-СуворовАА\Geom_model\bin\Debug\Geom_model.pdb
+C:\Users\Chrv\Desktop\курсачи\Носкова\107517-СуворовАА\Geom_model\obj\Debug\Geom_model.csprojResolveAssemblyReference.cache
+C:\Users\Chrv\Desktop\курсачи\Носкова\107517-СуворовАА\Geom_model\obj\Debug\Geom_model.fMain.resources
+C:\Users\Chrv\Desktop\курсачи\Носкова\107517-СуворовАА\Geom_model\obj\Debug\Geom_model.Properties.Resources.resources
+C:\Users\Chrv\Desktop\курсачи\Носкова\107517-СуворовАА\Geom_model\obj\Debug\Geom_model.csproj.GenerateResource.Cache
+C:\Users\Chrv\Desktop\курсачи\Носкова\107517-СуворовАА\Geom_model\obj\Debug\Geom_model.csproj.CoreCompileInputs.cache
+C:\Users\Chrv\Desktop\курсачи\Носкова\107517-СуворовАА\Geom_model\obj\Debug\Geom_model.exe
+C:\Users\Chrv\Desktop\курсачи\Носкова\107517-СуворовАА\Geom_model\obj\Debug\Geom_model.pdb
+D:\курсачи\Носкова\107517-СуворовАА\Geom_model\bin\Debug\Geom_model.exe.config
+D:\курсачи\Носкова\107517-СуворовАА\Geom_model\obj\Debug\Geom_model.exe
+D:\курсачи\Носкова\107517-СуворовАА\Geom_model\obj\Debug\Geom_model.pdb
+D:\курсачи\Носкова\107517-СуворовАА\Geom_model\bin\Debug\Geom_model.exe
+D:\курсачи\Носкова\107517-СуворовАА\Geom_model\bin\Debug\Geom_model.pdb
+D:\курсачи\Носкова\107517-СуворовАА\Geom_model\obj\Debug\Geom_model.csprojResolveAssemblyReference.cache
+D:\курсачи\Носкова\107517-СуворовАА\Geom_model\obj\Debug\Geom_model.fMain.resources
+D:\курсачи\Носкова\107517-СуворовАА\Geom_model\obj\Debug\Geom_model.Properties.Resources.resources
+D:\курсачи\Носкова\107517-СуворовАА\Geom_model\obj\Debug\Geom_model.csproj.GenerateResource.Cache
+F:\3_курс_от_Маши\Носкова\!!!!!!!!!!!!!!!!!!!\Geom_model\bin\Debug\Geom_model.exe.config
+F:\3_курс_от_Маши\Носкова\!!!!!!!!!!!!!!!!!!!\Geom_model\bin\Debug\Geom_model.exe
+F:\3_курс_от_Маши\Носкова\!!!!!!!!!!!!!!!!!!!\Geom_model\bin\Debug\Geom_model.pdb
+F:\3_курс_от_Маши\Носкова\!!!!!!!!!!!!!!!!!!!\Geom_model\obj\Debug\Geom_model.csprojAssemblyReference.cache
+F:\3_курс_от_Маши\Носкова\!!!!!!!!!!!!!!!!!!!\Geom_model\obj\Debug\Geom_model.fMain.resources
+F:\3_курс_от_Маши\Носкова\!!!!!!!!!!!!!!!!!!!\Geom_model\obj\Debug\Geom_model.Properties.Resources.resources
+F:\3_курс_от_Маши\Носкова\!!!!!!!!!!!!!!!!!!!\Geom_model\obj\Debug\Geom_model.csproj.GenerateResource.cache
+F:\3_курс_от_Маши\Носкова\!!!!!!!!!!!!!!!!!!!\Geom_model\obj\Debug\Geom_model.csproj.CoreCompileInputs.cache
+F:\3_курс_от_Маши\Носкова\!!!!!!!!!!!!!!!!!!!\Geom_model\obj\Debug\Geom_model.exe
+F:\3_курс_от_Маши\Носкова\!!!!!!!!!!!!!!!!!!!\Geom_model\obj\Debug\Geom_model.pdb
+C:\Users\Tatyana\Desktop\!!!!!!!!!!!!!!!!!!!\Geom_model\bin\Debug\Geom_model.exe.config
+C:\Users\Tatyana\Desktop\!!!!!!!!!!!!!!!!!!!\Geom_model\bin\Debug\Geom_model.exe
+C:\Users\Tatyana\Desktop\!!!!!!!!!!!!!!!!!!!\Geom_model\bin\Debug\Geom_model.pdb
+C:\Users\Tatyana\Desktop\!!!!!!!!!!!!!!!!!!!\Geom_model\obj\Debug\Geom_model.csprojAssemblyReference.cache
+C:\Users\Tatyana\Desktop\!!!!!!!!!!!!!!!!!!!\Geom_model\obj\Debug\Geom_model.fMain.resources
+C:\Users\Tatyana\Desktop\!!!!!!!!!!!!!!!!!!!\Geom_model\obj\Debug\Geom_model.Properties.Resources.resources
+C:\Users\Tatyana\Desktop\!!!!!!!!!!!!!!!!!!!\Geom_model\obj\Debug\Geom_model.csproj.GenerateResource.cache
+C:\Users\Tatyana\Desktop\!!!!!!!!!!!!!!!!!!!\Geom_model\obj\Debug\Geom_model.csproj.CoreCompileInputs.cache
+C:\Users\Tatyana\Desktop\!!!!!!!!!!!!!!!!!!!\Geom_model\obj\Debug\Geom_model.exe
+C:\Users\Tatyana\Desktop\!!!!!!!!!!!!!!!!!!!\Geom_model\obj\Debug\Geom_model.pdb

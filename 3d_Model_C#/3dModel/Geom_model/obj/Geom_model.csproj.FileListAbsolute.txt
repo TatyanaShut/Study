@@ -1,0 +1,8 @@
+I:\Универ\5 курс\Сиденко\Курсовой_Nesso4ka\Geom_model\Geom_model\bin\Debug\Geom_model.exe
+I:\Универ\5 курс\Сиденко\Курсовой_Nesso4ka\Geom_model\Geom_model\bin\Debug\Geom_model.pdb
+I:\Универ\5 курс\Сиденко\Курсовой_Nesso4ka\Geom_model\Geom_model\obj\Debug\ResolveAssemblyReference.cache
+I:\Универ\5 курс\Сиденко\Курсовой_Nesso4ka\Geom_model\Geom_model\obj\Debug\Geom_model.fMain.resources
+I:\Универ\5 курс\Сиденко\Курсовой_Nesso4ka\Geom_model\Geom_model\obj\Debug\Geom_model.Properties.Resources.resources
+I:\Универ\5 курс\Сиденко\Курсовой_Nesso4ka\Geom_model\Geom_model\obj\Debug\Geom_model.csproj.GenerateResource.Cache
+I:\Универ\5 курс\Сиденко\Курсовой_Nesso4ka\Geom_model\Geom_model\obj\Debug\Geom_model.exe
+I:\Универ\5 курс\Сиденко\Курсовой_Nesso4ka\Geom_model\Geom_model\obj\Debug\Geom_model.pdb
