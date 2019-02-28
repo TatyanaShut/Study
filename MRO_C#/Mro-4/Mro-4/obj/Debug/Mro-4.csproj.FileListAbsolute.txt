@@ -1,0 +1,29 @@
+C:\Users\Илья\Documents\Visual Studio 2015\Projects\Mro-4\Mro-4\bin\Debug\Mro-4.exe.config
+C:\Users\Илья\Documents\Visual Studio 2015\Projects\Mro-4\Mro-4\bin\Debug\Mro-4.exe
+C:\Users\Илья\Documents\Visual Studio 2015\Projects\Mro-4\Mro-4\bin\Debug\Mro-4.pdb
+C:\Users\Илья\Documents\Visual Studio 2015\Projects\Mro-4\Mro-4\obj\Debug\Mro-4.csprojResolveAssemblyReference.cache
+C:\Users\Илья\Documents\Visual Studio 2015\Projects\Mro-4\Mro-4\obj\Debug\Mro_4.Form1.resources
+C:\Users\Илья\Documents\Visual Studio 2015\Projects\Mro-4\Mro-4\obj\Debug\Mro_4.Properties.Resources.resources
+C:\Users\Илья\Documents\Visual Studio 2015\Projects\Mro-4\Mro-4\obj\Debug\Mro-4.csproj.GenerateResource.Cache
+C:\Users\Илья\Documents\Visual Studio 2015\Projects\Mro-4\Mro-4\obj\Debug\Mro-4.exe
+C:\Users\Илья\Documents\Visual Studio 2015\Projects\Mro-4\Mro-4\obj\Debug\Mro-4.pdb
+C:\Users\Tatyana\Desktop\Mro-4\Mro-4\bin\Debug\Mro-4.exe.config
+C:\Users\Tatyana\Desktop\Mro-4\Mro-4\bin\Debug\Mro-4.exe
+C:\Users\Tatyana\Desktop\Mro-4\Mro-4\bin\Debug\Mro-4.pdb
+C:\Users\Tatyana\Desktop\Mro-4\Mro-4\obj\Debug\Mro-4.csprojAssemblyReference.cache
+C:\Users\Tatyana\Desktop\Mro-4\Mro-4\obj\Debug\Mro_4.Form1.resources
+C:\Users\Tatyana\Desktop\Mro-4\Mro-4\obj\Debug\Mro_4.Properties.Resources.resources
+C:\Users\Tatyana\Desktop\Mro-4\Mro-4\obj\Debug\Mro-4.csproj.GenerateResource.cache
+C:\Users\Tatyana\Desktop\Mro-4\Mro-4\obj\Debug\Mro-4.csproj.CoreCompileInputs.cache
+C:\Users\Tatyana\Desktop\Mro-4\Mro-4\obj\Debug\Mro-4.exe
+C:\Users\Tatyana\Desktop\Mro-4\Mro-4\obj\Debug\Mro-4.pdb
+C:\Users\Tatyana\Desktop\MRO\Mro-4\Mro-4\bin\Debug\Mro-4.exe.config
+C:\Users\Tatyana\Desktop\MRO\Mro-4\Mro-4\bin\Debug\Mro-4.exe
+C:\Users\Tatyana\Desktop\MRO\Mro-4\Mro-4\bin\Debug\Mro-4.pdb
+C:\Users\Tatyana\Desktop\MRO\Mro-4\Mro-4\obj\Debug\Mro-4.csprojAssemblyReference.cache
+C:\Users\Tatyana\Desktop\MRO\Mro-4\Mro-4\obj\Debug\Mro_4.Form1.resources
+C:\Users\Tatyana\Desktop\MRO\Mro-4\Mro-4\obj\Debug\Mro_4.Properties.Resources.resources
+C:\Users\Tatyana\Desktop\MRO\Mro-4\Mro-4\obj\Debug\Mro-4.csproj.GenerateResource.cache
+C:\Users\Tatyana\Desktop\MRO\Mro-4\Mro-4\obj\Debug\Mro-4.csproj.CoreCompileInputs.cache
+C:\Users\Tatyana\Desktop\MRO\Mro-4\Mro-4\obj\Debug\Mro-4.exe
+C:\Users\Tatyana\Desktop\MRO\Mro-4\Mro-4\obj\Debug\Mro-4.pdb

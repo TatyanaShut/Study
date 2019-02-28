@@ -1,0 +1,52 @@
+D:\MROlab1\PerseptronApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\MROlab1\PerseptronApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\MROlab1\PerseptronApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\MROlab1\PerseptronApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\MROlab1\PerseptronApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\MROlab1\PerseptronApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\MROlab1\PerseptronApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\MROlab1\PerseptronApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\МРО мои лаб.р\MROlab1\PerseptronApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\МРО мои лаб.р\MROlab1\PerseptronApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\МРО мои лаб.р\MROlab1\PerseptronApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\МРО мои лаб.р\MROlab1\PerseptronApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\МРО мои лаб.р\MROlab1\PerseptronApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\МРО мои лаб.р\MROlab1\PerseptronApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\МРО мои лаб.р\MROlab1\PerseptronApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\МРО мои лаб.р\MROlab1\PerseptronApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Studing\Ковалева_Методы распознавания образов\MROlab1(персептрон)\PerseptronApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Studing\Ковалева_Методы распознавания образов\MROlab1(персептрон)\PerseptronApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Studing\Ковалева_Методы распознавания образов\MROlab1(персептрон)\PerseptronApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Studing\Ковалева_Методы распознавания образов\MROlab1(персептрон)\PerseptronApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Studing\Ковалева_Методы распознавания образов\MROlab1(персептрон)\PerseptronApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\Studing\Ковалева_Методы распознавания образов\MROlab1(персептрон)\PerseptronApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Studing\Ковалева_Методы распознавания образов\MROlab1(персептрон)\PerseptronApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Studing\Ковалева_Методы распознавания образов\MROlab1(персептрон)\PerseptronApplication1\WindowsFormsApplication1\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Studing\Ковалева_Методы распознавания образов\MROlab1(персептрон)\PerseptronApplication1\WindowsFormsApplication1\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Tatyana\Desktop\PerseptronApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Tatyana\Desktop\PerseptronApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Tatyana\Desktop\PerseptronApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\Tatyana\Desktop\PerseptronApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Tatyana\Desktop\PerseptronApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Tatyana\Desktop\PerseptronApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\Tatyana\Desktop\PerseptronApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Tatyana\Desktop\PerseptronApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Tatyana\Desktop\PerseptronApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Tatyana\Desktop\MRO\PerseptronApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Tatyana\Desktop\MRO\PerseptronApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Tatyana\Desktop\MRO\PerseptronApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\Tatyana\Desktop\MRO\PerseptronApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Tatyana\Desktop\MRO\PerseptronApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Tatyana\Desktop\MRO\PerseptronApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\Tatyana\Desktop\MRO\PerseptronApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Tatyana\Desktop\MRO\PerseptronApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Tatyana\Desktop\MRO\PerseptronApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Tatyana\Desktop\MRO\PerseptronApplication1 - Copy\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Tatyana\Desktop\MRO\PerseptronApplication1 - Copy\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Tatyana\Desktop\MRO\PerseptronApplication1 - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\Tatyana\Desktop\MRO\PerseptronApplication1 - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Tatyana\Desktop\MRO\PerseptronApplication1 - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Tatyana\Desktop\MRO\PerseptronApplication1 - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\Tatyana\Desktop\MRO\PerseptronApplication1 - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Tatyana\Desktop\MRO\PerseptronApplication1 - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Tatyana\Desktop\MRO\PerseptronApplication1 - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
